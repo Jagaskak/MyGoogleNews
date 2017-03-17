@@ -30,7 +30,7 @@ import java.util.ArrayList;
  * Note: to get this code to work, we added the following line to app/build.gradle
  *
  *     compile 'com.google.code.gson:gson:2.7'
- *     compile 'com.android.support.constraint:constraint-layout:1.0.1'
+ *     compile 'com.android.support.constraint:constraint-layout:1.0.2'
  *     compile 'com.android.support:recyclerview-v7:25.2.0'
  *
  *     compile 'com.squareup.picasso:picasso:2.5.2'
